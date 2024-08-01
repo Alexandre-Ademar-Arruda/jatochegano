@@ -95,6 +95,20 @@ header{
     
 }
 
+.orcamento-formulario:hover {
+    background-color: gold;
+    border-color: 2px gold solid;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.orcamento-zap:hover{
+    background-color: gold;
+    border-color: 2px gold solid;
+    border-radius: 10px;
+    padding: 3px;
+}
+
 a{
     color: black;
 
