@@ -67,25 +67,15 @@ div{
     row-gap: 10px;
 }
 
-.spanZap{
+.orcamento span{
     display: flex;
     width: 300px;
     height: 25px;  
     border-radius: 10px;
     align-items: center;
     justify-content:center;
-    margin-top: 10px;
-    background-color: #25D366;
-}
-
-.spanForm{
-    display: flex;
-    width: 300px;
-    height: 25px;  
-    border-radius: 10px;
-    align-items: center;
-    justify-content:center;
-    background-color: #25D366;
+    background-color: gold;
+    /*background-color: #25D366;*/
 }
 
 .container .logo-jtchgnd{
@@ -150,8 +140,7 @@ a{
     justify-content: center;
     background-color: gold;
     border-radius: 10px;
-  
-       
+    margin-bottom: 10px;     
    
 }
 
