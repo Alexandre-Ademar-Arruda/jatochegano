@@ -67,6 +67,10 @@ div{
     row-gap: 10px;
 }
 
+.orcamento{
+   
+    background-color: #fff;
+}
 .orcamento span{
     display: flex;
     width: 300px;
