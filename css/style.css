@@ -48,20 +48,21 @@ header{
     align-items: center;
     justify-content: center;
     border-radius: 20px;
-    background-color: #ccc(224, 14, 14);
+    background-color: gold;
     gap: 10px;
-    border: #ccc 10px solid;
+    border: gold 10px solid;
 }
 
 div{
     flex: 0 1 250px;
 }
+
 .container div{
     display:flex;
     flex-direction: column;
     
     border-radius: 10px;
-    max-height: 40px;
+    max-height: 95px;
     align-items: center;
     justify-content:center;
     row-gap: 10px;
@@ -70,6 +71,9 @@ div{
 .orcamento{
    
     background-color: #fff;
+    width: 300px;
+    height: 95px;
+  
 }
 .orcamento span{
     display: flex;
