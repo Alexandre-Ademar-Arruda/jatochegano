@@ -155,7 +155,7 @@ textarea, input {
     resize: vertical;
 }
 
-label{
+label, button{
     
     margin-top: 10px;
 
