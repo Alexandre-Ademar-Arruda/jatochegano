@@ -168,7 +168,31 @@ ul.regioes-atendidas{
 
     overflow-y: auto; /* Adiciona uma barra de rolagem vertical */
 
+    width: 300px;
+
 }
+
+
+/* Estiliza a barra de rolagem */
+ul.regioes-atendidas::-webkit-scrollbar {
+    width: 10px; /* Largura da barra de rolagem */
+    border-radius: 20px; /* Aplicação do border-radius na barra de rolagem */
+}
+
+ul.regioes-atendidas::-webkit-scrollbar-track {
+    background: #fff; /* Cor de fundo da trilha da barra de rolagem */
+    border-radius: 20px; /* Aplicação do border-radius na trilha da barra de rolagem */
+}
+
+ul.regioes-atendidas::-webkit-scrollbar-thumb {
+    background: #888; /* Cor da parte deslizante da barra de rolagem */
+    border-radius: 20px; /* Aplicação do border-radius na parte deslizante */
+}
+
+ul.regioes-atendidas::-webkit-scrollbar-thumb:hover {
+    background: #fff; /* Cor da parte deslizante da barra de rolagem quando em hover */
+}
+
  
 h1{
 
