@@ -145,8 +145,9 @@ a{
     display: flex;
     text-align: center;
     justify-content: center;
-    background-color: gold;
+    background-color: #25D366;
     border-radius: 10px;
+    border: 5px gold solid;
     margin-bottom: 10px;     
    
 }
